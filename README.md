@@ -15,7 +15,7 @@ Here can you see the stats of my public repositorys.
 
 
 
-I mostly work directly for Communitys so my current projects are all privat.
+I mostly work directly for Communitys so my current projects are mostly privat.
 
 But here are some of my current Projects:
 
