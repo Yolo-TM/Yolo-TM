@@ -11,7 +11,7 @@ Here can you see the stats of my public repositorys.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibimsnicesyolo&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibimsnicesyolo&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibimsnicesyolo&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
