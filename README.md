@@ -19,7 +19,6 @@ I mostly work directly for Communitys so my current projects are mostly privat.
 
 But here are some of my current Projects:
 
-- Roleplay Framework Gamemode for Garrysmod with Ingame Lua Code (Modules) Hotloading and Unloading and 100% Ingame Config.
-- DRM for the gamemode, written in C++ and php as Backend
-- Wiki/Dokumentation of the gamemode
+- Roleplay Framework for Garrysmod with 100% Ingame Config, DRM and Wiki for the Framework
+- Gmod Instancing System
 - Lightsaber++  More Informations(https://lightsaber.plus/)
