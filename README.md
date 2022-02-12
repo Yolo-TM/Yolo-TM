@@ -29,4 +29,4 @@ But here are some of my current Projects:
 
 - Lightsaber++  More Informations(https://lightsaber.plus/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lightsaberplus&repo=lite)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lightsaberplus&repo=lite&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
