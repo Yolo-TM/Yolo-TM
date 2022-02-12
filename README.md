@@ -23,4 +23,3 @@ But here are some of my current Projects:
 - Gmod Instancing System
 - Lightsaber++  More Informations(https://lightsaber.plus/)
 
-[![Counter](https://www.fastcounter.net/auth.php?id=71030af4520c389112b1164399f698ceaafdf521)]
