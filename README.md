@@ -20,6 +20,7 @@ I mostly work directly for Communitys so my current projects are mostly privat.
 But here are some of my current Projects:
 
 - Roleplay Framework for Garrysmod with 100% Ingame Config, DRM and Wiki for the Framework
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimsnicesyolo&repo=gamemode_wiki)](https://github.com/anuraghazra/github-readme-stats)
 - Gmod Instancing System
 - Lightsaber++  More Informations(https://lightsaber.plus/)
 
