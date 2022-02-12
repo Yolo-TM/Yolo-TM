@@ -15,13 +15,13 @@ Here can you see the stats of my public repositorys.
 
 
 
-I mostly work directly for Communitys so my current projects are mostly privat.
+I work direct for Communitys so my current projects are mostly privat.
 
 But here are some of my current Projects:
 
 - Roleplay Framework for Garrysmod with 100% Ingame Config, DRM and Wiki for the Framework
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimsnicesyolo&repo=gamemode_wiki)](https://github.com/anuraghazra/github-readme-stats)
 - Gmod Instancing System
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimsnicesyolo&repo=gmod_instancing)](https://github.com/anuraghazra/github-readme-stats)
 - Lightsaber++  More Informations(https://lightsaber.plus/)
-
-![](https://img.shields.io/badge/nice-guy-informational?style=flat&color=FFFFFF)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lightsaberplus&repo=lite)](https://github.com/anuraghazra/github-readme-stats)
