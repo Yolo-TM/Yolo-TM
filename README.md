@@ -21,7 +21,7 @@ But here are some of my current Projects:
 
 - Roleplay Framework for Garrysmod with 100% Ingame Config, DRM and Wiki for the Framework
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimsnicesyolo&repo=gamemode_wiki)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimsnicesyolo&repo=gamemode_wiki)](https://github.com/IbimsnicesYolo/gamemode_wiki)
 
 - Gmod Instancing System
 
