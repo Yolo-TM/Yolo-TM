@@ -23,6 +23,6 @@ But here are some of my current Projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimsnicesyolo&repo=gmod_instances)](https://github.com/IbimsnicesYolo/gmod_instances)
 
-- Lightsaber++  More Informations(https://lightsaber.plus/)
+- Music Player App in Flutter
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lightsaberplus&repo=lite&show_owner=true)](https://github.com/lightsaberplus/lite)
+-> Currently Private, but will be soon Open Source
