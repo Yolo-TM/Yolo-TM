@@ -1,13 +1,9 @@
 Hey,
 My Name is Yolo,
 
-Im currently working a lot with glua (Garrysmod) but have also experience with php, html, css and python.
+Idk what to write here so just check my stats...
 
-Beside that im a gamer and play Minecraft, R6, Star Wars Battelfront 1+2 and Battelfield 1.
-
-
-
-Here can you see the stats of my public repositorys.
+My public repositorys:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibimsnicesyolo&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -15,7 +11,8 @@ Here can you see the stats of my public repositorys.
 
 
 
-I work direct for Communitys so my current projects are mostly privat.
+Most of my Projects are directly for specific communities and not open source,
+but here are some of the open source projects:
 
 But here are some of my current Projects:
 
