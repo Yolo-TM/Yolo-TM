@@ -14,8 +14,6 @@ My public repositorys:
 Most of my Projects are directly for specific communities and not open source,
 but here are some of the open source projects:
 
-But here are some of my current Projects:
-
 - Gmod Instancing System
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimsnicesyolo&repo=gmod_instances)](https://github.com/IbimsnicesYolo/gmod_instances)
