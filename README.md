@@ -25,4 +25,4 @@ But here are some of my current Projects:
 
 - Music Player App in Flutter
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimsnicesyolo&repo=gmod_instances)](https://github.com/IbimsnicesYolo/musicplayer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimsnicesyolo&repo=musicplayer)](https://github.com/IbimsnicesYolo/musicplayer)
