@@ -5,11 +5,11 @@ Idk what to write here so just check my stats...
 
 My public repositorys:
 
-![](https://raw.githubusercontent.com/IbimsnicesYolo/stats/master/generated/overview.svg#gh-dark-mode-only)
-![]()
+[![](https://raw.githubusercontent.com/IbimsnicesYolo/stats/master/generated/overview.svg#gh-dark-mode-only)]()
 
-![](https://raw.githubusercontent.com/IbimsnicesYolo/stats/master/generated/languages.svg#gh-dark-mode-only)
-![]()
+[![](https://raw.githubusercontent.com/IbimsnicesYolo/stats/master/generated/languages.svg#gh-dark-mode-only)]()
+
+
 
 
 
