@@ -18,8 +18,8 @@ but here are some of the open source projects:
 
 - Gmod Instancing System
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimsnicesyolo&repo=gmod_instances#gh-dark-mode-only)](https://github.com/SEBRP/gmod_instances)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yolo-tm&repo=gmod_instances#gh-dark-mode-only)](https://github.com/SEBRP/gmod_instances)
 
 - Music Player App in Flutter
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimsnicesyolo&repo=musicplayer#gh-dark-mode-only)](https://github.com/Yolo-TM/musicplayer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yolo-tm&repo=musicplayer#gh-dark-mode-only)](https://github.com/Yolo-TM/musicplayer)
